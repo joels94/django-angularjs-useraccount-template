@@ -1,0 +1,9 @@
+# Python compiled byte code
+*.pyc
+
+# SQLite3 database
+*.sqlite3
+
+# Bower components
+static/bower_components/
+
