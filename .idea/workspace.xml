@@ -24,15 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/README.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="306">
-                <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <first_editor relative-caret-position="288">
+                <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,18 +40,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/manage.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/requirements.txt">
+        <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -64,65 +64,65 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/django-tutorial/django-angular-useraccount-template" />
     <option name="FORCE_PUSH_ALLOWED" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
     <push-targets>
-      <push-target-info repo="$PROJECT_DIR$" source="release" target-remote="origin" target-branch="master" />
+      <push-target-info repo="$USER_HOME$/django-tutorial/django-angular-useraccount-template" source="release" target-remote="origin" target-branch="master" />
     </push-targets>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/static/templates/profiles/settings.html" />
-        <option value="$PROJECT_DIR$/authentication/models.py" />
-        <option value="$PROJECT_DIR$/static/javascripts/thinkster.js" />
-        <option value="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/requirements.txt" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/templates/profiles/settings.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/authentication/models.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/thinkster.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/thinkster_django_angular_boilerplate/urls.py" />
         <option value="$USER_HOME$/.virtualenvs/djangodev/lib/python3.5/site-packages/rest_framework/permissions.py" />
-        <option value="$PROJECT_DIR$/static/javascripts/profiles/services/profile.service.js" />
-        <option value="$PROJECT_DIR$/static/templates/layout/index.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js" />
-        <option value="$PROJECT_DIR$/templates/navbar.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/layout/controllers/index.controller.js" />
-        <option value="$PROJECT_DIR$/templates/javascripts.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/thinkster.routes.js" />
-        <option value="$PROJECT_DIR$/static/javascripts/layout/controllers/navbar.controller.js" />
-        <option value="$PROJECT_DIR$/authentication/views.py" />
-        <option value="$PROJECT_DIR$/static/javascripts/profiles/controllers/profile-settings.controller.js" />
-        <option value="$PROJECT_DIR$/django-angular-useraccount-template/settings.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/templates/navbar.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/django-angularjs-useraccount-template/urls.py" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/urls.py" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.config.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/authentication.module.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/services/authentication.service.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/controllers/login.controller.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/controllers/register.controller.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/layout/layout.module.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/layout/controllers/navbar.controller.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/profiles.module.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/services/profile.service.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/utils/utils.module.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/utils/services/snackbar.service.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/stylesheets/styles.css" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/authentication/login.html" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/authentication/register.html" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/profiles/settings.html" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/controllers/profile-settings.controller.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.routes.js" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/requirements.txt" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/settings.py" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/README.md" />
-        <option value="$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/views.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/profiles/services/profile.service.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/templates/layout/index.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/authentication/services/authentication.service.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/templates/navbar.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/templates/index.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/layout/controllers/index.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/templates/javascripts.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/thinkster.routes.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/layout/controllers/navbar.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/authentication/views.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/profiles/controllers/profile-settings.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/django-angular-useraccount-template/settings.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/templates/index.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/templates/navbar.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/README.md" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/bower.json" />
+        <option value="$USER_HOME$/django-tutorial/django-angular-useraccount-template/.gitignore" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django-angularjs-useraccount-template/urls.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/urls.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.config.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/authentication.module.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/services/authentication.service.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/controllers/login.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/controllers/register.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/layout/layout.module.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/layout/controllers/navbar.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/profiles.module.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/services/profile.service.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/utils/utils.module.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/utils/services/snackbar.service.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/stylesheets/styles.css" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/authentication/login.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/authentication/register.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/profiles/settings.html" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/controllers/profile-settings.controller.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.routes.js" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/requirements.txt" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/README.md" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/views.py" />
+        <option value="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/settings.py" />
       </list>
     </option>
   </component>
@@ -132,14 +132,30 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../django-angularjs-useraccount-template/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1301" />
     <option name="height" value="708" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -184,12 +200,6 @@
               <option name="myItemId" value="django-angular-useraccount-template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-angular-useraccount-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="django-angularjs-useraccount-template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -200,11 +210,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/django-tutorial/django-angular-useraccount-template" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates" />
+    </key>
   </component>
   <component name="RunManager" selected="Django server.thinkster-django-angular-boilerplate">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -539,12 +554,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/layout/controllers/index.controller.js" />
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/serializers.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/postInstall.sh" />
-    <entry file="file://$PROJECT_DIR$/Procfile" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/static/javascripts/layout/controllers/index.controller.js" />
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/serializers.py" />
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/scripts/postInstall.sh" />
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/Procfile" />
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/package.json" />
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -552,7 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.buildpacks">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angular-useraccount-template/.buildpacks">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -560,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/.bowerrc">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -568,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/templates/stylesheets.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/stylesheets.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -576,7 +591,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/templates/navbar.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
@@ -584,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/templates/index.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
@@ -592,7 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/__init__.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -600,7 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/views.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -610,7 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/urls.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
@@ -618,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/wsgi.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -626,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/migrations/__init__.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -634,7 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/admin.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -642,7 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/apps.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -650,17 +665,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/models.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-514">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#55#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/permissions.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -668,7 +683,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/tests.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -676,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -684,7 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.config.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
@@ -692,7 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/controllers/register.controller.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/controllers/register.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
@@ -700,7 +715,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/services/authentication.service.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/services/authentication.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2646">
           <caret line="147" column="26" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
@@ -708,7 +723,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/authentication.module.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/authentication.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
@@ -716,7 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/authentication/controllers/login.controller.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/authentication/controllers/login.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
@@ -724,7 +739,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/layout/layout.module.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/layout/layout.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
@@ -732,7 +747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/layout/controllers/navbar.controller.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/layout/controllers/navbar.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
@@ -740,7 +755,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/profiles.module.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/profiles.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
@@ -748,7 +763,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/utils/utils.module.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/utils/utils.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -756,7 +771,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/utils/services/snackbar.service.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/utils/services/snackbar.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-36">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
@@ -764,7 +779,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/lib/snackbarjs/snackbar.min.css">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/lib/snackbarjs/snackbar.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -772,17 +787,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/lib/snackbarjs/snackbar.min.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/lib/snackbarjs/snackbar.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/stylesheets/styles.css">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -790,7 +805,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/authentication/login.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/authentication/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="123" selection-start-line="15" selection-start-column="123" selection-end-line="15" selection-end-column="123" />
@@ -798,7 +813,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/authentication/register.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/authentication/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="126" selection-start-line="18" selection-start-column="126" selection-end-line="18" selection-end-column="126" />
@@ -806,7 +821,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/templates/profiles/settings.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/profiles/settings.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
@@ -814,7 +829,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/controllers/profile-settings.controller.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/controllers/profile-settings.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
@@ -822,7 +837,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/profiles/services/profile.service.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/profiles/services/profile.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-550">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
@@ -830,7 +845,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/bower.json">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -838,7 +853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/requirements.txt">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -846,23 +861,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/django_angularjs_useraccount_template/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="61" column="4" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/templates/javascripts.html">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/templates/javascripts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
@@ -870,7 +869,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/static/javascripts/app.routes.js">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/static/javascripts/app.routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
@@ -878,7 +877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/.gitignore">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -886,7 +885,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/views.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-414">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -896,7 +895,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/authentication/migrations/0001_initial.py">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/authentication/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-132">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -904,7 +903,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../django-angularjs-useraccount-template/README.md">
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -916,11 +923,19 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <first_editor relative-caret-position="288">
+            <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/django-tutorial/django-angularjs-useraccount-template/django_angularjs_useraccount_template/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
